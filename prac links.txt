@@ -1,0 +1,6 @@
+
+
+prac forward backward
+https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
+pract k fold 
+https://machinelearningmastery.com/how-to-configure-k-fold-cross-validation/
